@@ -7,7 +7,7 @@ Project for creating official translations of the 4.0 licenses and CC0.
 | ------------- | ------------- |
 | Driver  | [Sarah Pearson](https://github.com/sarahpearson)  |
 | Approvers  | [Diane Peters](https://github.com/peterspdx)  |
-| Contributors | [Matt Lee](https://github.com/mattl), [Diane Peters](https://github.com/peterspdx |
+| Contributors | [Matt Lee](https://github.com/mattl), [Diane Peters](https://github.com/peterspdx) |
 | Informed | [Ryan Merkley](https://github.com/ryanmerkley) |
 
 (will add RCs and Jess once they get github accounts) 
