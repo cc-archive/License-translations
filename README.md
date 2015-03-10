@@ -6,7 +6,7 @@ Project for creating official translations of the 4.0 licenses and CC0.
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Sarah Pearson](https://github.com/sarahpearson)  |
-| Accountable  ||
+| Accountable  |Diane Peters](https://github.com/peterspdx)|
 | Consulted | [Matt Lee](https://github.com/mattl), [Diane Peters](https://github.com/peterspdx) |
 | Informed | [Ryan Merkley](https://github.com/ryanmerkley) |
 
